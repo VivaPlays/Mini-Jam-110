@@ -108,7 +108,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 39
-        y: 149
+        y: 298
         width: 69
         height: 144
       alignment: 0
@@ -129,7 +129,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 188
-        y: 149
+        y: 298
         width: 69
         height: 144
       alignment: 0
@@ -150,7 +150,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 337
-        y: 149
+        y: 298
         width: 69
         height: 144
       alignment: 0
@@ -171,7 +171,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 39
-        y: 0
+        y: 149
         width: 69
         height: 144
       alignment: 0
@@ -192,7 +192,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 0
+        y: 149
         width: 90
         height: 144
       alignment: 0
@@ -208,6 +208,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: seth_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4026cb48f11e374d877917a9dca6f68
+      internalID: 876614483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seth_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed9d52467da9849a7d730df6391a72
+      internalID: 1428022477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seth_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962beb4bf66b6954d908397ed775d035
+      internalID: 620489694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seth_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f5bb869c7260468296f9a6554776c
+      internalID: 233138270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -219,8 +303,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      seth_8: 233138270
+      seth_5: 876614483
       seth_1: 2138257101
+      seth_6: 1428022477
       seth_4: -710640451
+      seth_7: 620489694
       seth_3: -1710384085
       seth_2: 2129117097
       seth_0: -548671079
